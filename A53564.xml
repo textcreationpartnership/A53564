@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The] out-crie of the Kings at Westminster, or, the junto who call themselves a Parliament. For their lamentable banging at Colchester, and the havock made of their sainted army there, conducted, by the gowty rebel Tom Fairfax, by the gallant Royalists under the command of the Right Honourable the Earle of Norwich, and the most valiant Sir Charles Lucas: as also, for the routing of Lambert in the north, the revolt of the navie, the losse of Pontfract Castle, and for the good affections of their soveraigne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53564</idno>
+            <idno type="STC">Wing O597</idno>
+            <idno type="STC">ESTC R222619</idno>
+            <idno type="EEBO-CITATION">99833772</idno>
+            <idno type="PROQUEST">99833772</idno>
+            <idno type="VID">38250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38250)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1784:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The] out-crie of the Kings at Westminster, or, the junto who call themselves a Parliament. For their lamentable banging at Colchester, and the havock made of their sainted army there, conducted, by the gowty rebel Tom Fairfax, by the gallant Royalists under the command of the Right Honourable the Earle of Norwich, and the most valiant Sir Charles Lucas: as also, for the routing of Lambert in the north, the revolt of the navie, the losse of Pontfract Castle, and for the good affections of their soveraigne.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect; trimmed at head, affecting title and page numbering.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38250:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>OUT-CRIE OF THE OF THE KINGS AT WESTMINSTER: or, the Junto who call themſelves a PARLIAMENT.</p>
+            <p>For their Lamentable banging at <hi>Colcheſter,</hi> and the Havock made of their Sainted Army there, Conducted, by the gowty Rebel <hi>Tom Fairfax,</hi> by the gallant Royalliſts under the command of the Right Honourable the Earle of <hi>Norwich,</hi> and the moſt valiant Sir <hi>Charles Lucas:</hi>
+            </p>
+            <p>As alſo, For the routing of <hi>Lambert</hi> in the North, the Revolt of the Navie, the loſſe of <hi>Pontfract</hi>-Caſtle, and for the good affections of their Soveraigne.</p>
+            <p>TO KING GOWTY-LIES.</p>
+            <q>
+               <l>And art thou lame, what pocky Rheume durſt ceaze,</l>
+               <l>On thy great Excellence, the French diſeaſe:</l>
+               <l>Was ſure too ſawcie, thy Rebellious lookes,</l>
+               <l>Frights more then Cromwels noſe, all plannet ſtruck;</l>
+               <l>Stand trembling at thy words, and yet though thus,</l>
+               <l>All could not ſtagger Morbus Gallicus:</l>
+               <l>Howle out thy Soul in pain, prevent the ill,</l>
+               <l>Muſt elſe fall on thee, by the hangmans skill:</l>
+               <l>Vnleſſe the <hi>Queen</hi> of Chance, ſo love thy Good,</l>
+               <l>That Goring now in Eſſex, let thee blood;</l>
+               <l>Hee hath proteſted to his Loyall Rout,</l>
+               <l>Ere many dayes to cure thee of the gowt:</l>
+               <l>Meane time (good Sir) thou doſt not halt alone,</l>
+               <l>The maſters of the Dam'd Rebellion:</l>
+               <l>Goe, limping toe. Fate hath <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e off their edge,</l>
+               <l>And nothing wants, but halter, Fire, and ſledge.</l>
+               <bibl>M. M.</bibl>
+            </q>
+            <p>Printed in the year. 1648.</p>
+            <pb facs="tcp:38250:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <pb facs="tcp:38250:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38250:3"/>
+            <!-- PDF PAGE 63 -->
+            <pb n="1" facs="tcp:38250:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 63 -->
+            <head>THE OUT-CRY OF THE KINGS AT WESTMINSTER, or, the Junto, who call themſelves a PARLIAMENT.</head>
+            <head type="sub">Their firſt Complaint.</head>
+            <lg>
+               <l>When we had <hi>Fortune</hi> in a <hi>ſtring,</hi>
+               </l>
+               <l>And <hi>all at</hi> our command:</l>
+               <l>
+                  <hi>Cloſe priſoner,</hi> clapt up our <hi>King,</hi>
+               </l>
+               <l>Growne great by <hi>Sea</hi> and <hi>Land.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When all men follow'd <hi>Cromwels Noſe,</hi>
+               </l>
+               <l>When wee had gull'd our <hi>Nation:</hi>
+               </l>
+               <l>And quite ſubdu'd our <hi>Royall Foes,</hi>
+               </l>
+               <l>With <hi>I<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>kies</hi> approbation.</l>
+            </lg>
+            <lg>
+               <l>When as the <hi>People</hi> ſeem'd content,</l>
+               <l>We on their <hi>backs</hi> ſhould <hi>ride:</hi>
+               </l>
+               <l>An <hi>Everlaſting Parliament,</hi>
+               </l>
+               <l>Even at the height of <hi>pride.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When we had caſt to <hi>kill</hi> our <hi>King,</hi>
+               </l>
+               <l>By <hi>poyſon,</hi> in his meat:</l>
+               <l>Then <hi>Osburne</hi> did find out the thing,</l>
+               <l>And <hi>England</hi> ſaw, a <hi>cheat.</hi>
+               </l>
+            </lg>
+            <p>MOſt venerable <hi>Rabbies,</hi> of the <hi>Synod,</hi> to you we turne our ſelves, now in our extremity you that are the <hi>Pulpit drum<g ref="char:EOLhyphen"/>mers</hi> of the times, and by whoſe <hi>perſwaſion,</hi> we firſt ingaged a<g ref="char:EOLhyphen"/>gainſt
+<pb n="2" facs="tcp:38250:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 64 -->our <hi>Soveraign Lord,</hi> you that have proved by divine <hi>Sylo<g ref="char:EOLhyphen"/>giſmes,</hi> that St. <hi>Peters</hi> counſell to fear <hi>God, and obey the King, is Apocripha,</hi> and that S. Pauls advice willing us to <hi>ſubmit upon pain of Damnation, is</hi> meerly a fallacious <hi>Aſſertion.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>No curst Rebellion ever yet tooke wings,</hi>
+               </l>
+               <l>
+                  <hi>To aſſail the Perſon &amp; the State of Kings:</hi>
+               </l>
+               <l>
+                  <hi>But it deriv'd its current from the gown,</hi>
+               </l>
+               <l>
+                  <hi>And made its fatall exit, with the clown:</hi>
+               </l>
+               <l>Gouge, <hi>vnto thee, to</hi> Marſhall, <hi>and to</hi> Nie,</l>
+               <l>
+                  <hi>Wee owe the hatching of our Treachery:</hi>
+               </l>
+               <l>
+                  <hi>Moſt holy</hi> Dragons, Devils <hi>clad with light,</hi>
+               </l>
+               <l>
+                  <hi>You firſt divulg'd the Plot, of</hi> Hell, <hi>and night:</hi>
+               </l>
+               <l>
+                  <hi>Curſt in your mothers wombes, the Biſhops fate,</hi>
+               </l>
+               <l>
+                  <hi>Your vile tranſactions will obliterate:</hi>
+               </l>
+               <l>
+                  <hi>Perjurd you are, the Biſhops Cap and hood,</hi>
+               </l>
+               <l>
+                  <hi>Have not been torn by you, though dide in blood</hi>
+               </l>
+               <l>
+                  <hi>Thoſe decent ornaments, preſerved are,</hi>
+               </l>
+               <l>
+                  <hi>When they aſſume their states, again to wear:</hi>
+               </l>
+               <l>
+                  <hi>Was it indeed, that you Cride order downe,</hi>
+               </l>
+               <l>
+                  <hi>To play at free-ball with the staffe and crown;</hi>
+               </l>
+               <l>
+                  <hi>That ſo while as our</hi> Engliſh Machine <hi>cracks,</hi>
+               </l>
+               <l>
+                  <hi>You each may bear ſix Steeples on your backs:</hi>
+               </l>
+               <l>
+                  <hi>Have you turn'd abſolution out of Dores,</hi>
+               </l>
+               <l>
+                  <hi>That ſo you onely may abſolve your whores:</hi>
+               </l>
+               <l>
+                  <hi>We have made uſe of you as deſperate men,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe perſon and return to duſt agen:</hi>
+               </l>
+               <l>
+                  <hi>Our own Rebellious courſes, now we rue,</hi>
+               </l>
+               <l>
+                  <hi>We muſt taſte vengeance ſo we wiſh may you.</hi>
+               </l>
+            </lg>
+            <p>The <hi>preposterouſneſſe</hi> of <hi>Fate,</hi> was ever <hi>Rebellion</hi> in more thri<g ref="char:EOLhyphen"/>ving courſe, then under our management, have we not tooke a<g ref="char:EOLhyphen"/>way the fundamentall Lawes of our Land, <hi>root</hi> and <hi>branch,</hi> have wee not forced a ſingle <hi>Ordinance,</hi> as if a <hi>Statute,</hi> have we not ta<g ref="char:EOLhyphen"/>ken away all order and diſcipline in the <hi>Church,</hi> and that the peo<g ref="char:EOLhyphen"/>ple might looſe the fear of <hi>God,</hi> and obedience to their <hi>King</hi> at once have countenanced a Generall <hi>tolleration</hi> have we not cea<g ref="char:EOLhyphen"/>zed on all our <hi>Kings revenew,</hi> his ſhips at ſea, and his <hi>Militia</hi> by land, have we not a choſen Army whom we keep up on purpoſe
+<pb n="3" facs="tcp:38250:4"/>
+               <!-- PDF PAGE 64 -->to overaw the people to plunder their goods (and if we com<g ref="char:EOLhyphen"/>mand) to kill their perſon at our pleaſure, have we not our <hi>ſpies</hi> in each corner of the land, &amp; more eſpecially in <hi>London</hi> to whom we allow annual ſtipends whoſe taske it is, to intrude themſelves into all cuſtomes, and to inſinuate into mens favour that ſo they may with more facility, learn their diſpoſitions and reſolutions, that ſo we may be informed thereof, and if we know them <hi>Loyall,</hi> to murther them, or ſtarve them in priſon, as we did lately to Sir <hi>Thomas Shirley</hi> whom we ſent priſoner to S. <hi>Peter,</hi> without ſo much as telling him for what, as alſo to Sir <hi>Thomas Cooper,</hi> who hath ſince eſcaped our hands, have wee not ſo impoveriſhed the people by our plunderings and taxes, that they are not ſo much as in a poſſibility of reſiſtance, have wee not inur'd them ſo to bondage, that they are as pliable to our commands as the tand <hi>gally-ſlave</hi> to his oate, have we not clapt up our <hi>King</hi> cloſe pri<g ref="char:EOLhyphen"/>ſoner in the Iſle of <hi>Wight,</hi> and can we not <hi>murther</hi> him there at our pleaſures, are wee not now a <hi>Free</hi> an <hi>abſolute State,</hi> our ſelves <hi>Kings,</hi> and the <hi>King</hi> uſeleſſe are wee not.</p>
+            <lg>
+               <l>
+                  <hi>Melancholicus</hi>
+               </l>
+               <l>
+                  <hi>— moſt ſeditious wicked Devils,</hi>
+               </l>
+               <l>
+                  <hi>Traytors who act the very worſt of evils:</hi>
+               </l>
+               <l>
+                  <hi>Whoſe beſt of Faith is <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>el<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> breach of truſt</hi>
+               </l>
+               <l>
+                  <hi>Whoſe zeale ſerves onely for to he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t your luſt:</hi>
+               </l>
+               <l>
+                  <hi>Lay now aſide your boaſts, and if there be,</hi>
+               </l>
+               <l>
+                  <hi>Left in your breaſts ſo much Chriſtianity:</hi>
+               </l>
+               <l>
+                  <hi>Betake you to your prayers, your Kingdomes gon,</hi>
+               </l>
+               <l>
+                  <hi>And</hi> CHARLS <hi>muſt once more fill his Royall throne:</hi>
+               </l>
+               <l>
+                  <hi>Three Royall Armies war likely array'd,</hi>
+               </l>
+               <l>
+                  <hi>Come bravely on, with banners broad diſplayd: FIGHT,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe mottoe's</hi> this THE CAVSE FOR WHICH WE</l>
+               <l>IS FOR OVR GOD OVR KING AND CHVRCHES RIGHT:</l>
+               <l>
+                  <hi>Though you deſpight of heaven ſtill goe on,</hi>
+               </l>
+               <l>
+                  <hi>And ſtill abet, your vile Rebellion,</hi>
+               </l>
+               <l>
+                  <hi>Yet know and be not blinded,</hi> Eſſex men,</l>
+               <l>
+                  <hi>Will have your heads, and eke their King agen:</hi>
+               </l>
+               <l>
+                  <hi>The Earl of</hi> Norwich, Canel, Campion,</l>
+               <l>Lunsford, Ga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eoigne, Many, Waſhington,</l>
+               <pb n="4" facs="tcp:38250:5"/>
+               <!-- PDF PAGE 65 -->
+               <l>
+                  <hi>Villiers, Th<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>hill, Culpepper, Liſte, and</hi>
+               </l>
+               <l>
+                  <hi>The reſt, that now brave</hi> Colcheſter <hi>command,</hi>
+               </l>
+               <l>
+                  <hi>Have lately bang'd Tom gowty leggs, yea ſo</hi>
+               </l>
+               <l>
+                  <hi>He never ſhall, get ſtrength again to goe.</hi>
+               </l>
+               <l>
+                  <hi>The noble</hi> LVCAS, <hi>lately ſallied out,</hi>
+               </l>
+               <l>
+                  <hi>And put the blood-bounds to a totall Rout:</hi>
+               </l>
+               <l>
+                  <hi>And ſince hath ſtuffe two Churches, with the Saints,</hi>
+               </l>
+               <l>
+                  <hi>Who fill the ecchoing wals, with loud complaints,</hi>
+               </l>
+               <l>
+                  <hi>Hath tane 7 Peice of Ordnance, next you'l hear,</hi>
+               </l>
+               <l>
+                  <hi>Your Army's left, and to adde to your feare,</hi>
+               </l>
+               <l>Lambert <hi>is ſoundly beaten,</hi> Langdale's <hi>Forte,</hi>
+               </l>
+               <l>
+                  <hi>Hath routed all his Army foot and horſe,</hi>
+               </l>
+               <l>
+                  <hi>From all points of the Compaſſe, now come on</hi>
+               </l>
+               <l>
+                  <hi>Your miſeries, and your deſtruction,</hi>
+               </l>
+               <l>
+                  <hi>Inevitable is, where's your Navy?</hi>
+               </l>
+               <l>
+                  <hi>Fall Traytors on the Land, the Sea can't ſave yea.</hi>
+               </l>
+               <l>All loyall Soules, now joyne, one hand, one heart,</l>
+               <l>'Tis that alone, theſe Rebels muſt ſubvert.</l>
+            </lg>
+            <p>They proceed in their Out-cry.</p>
+            <p>The Army before <hi>Colcheſter</hi> rowted, the <hi>Scots</hi> now in <hi>England, Lambert</hi> put to the worſt by <hi>Langdale,</hi> the Navie revolted, and the whole Kingdome riſing upon us, the Son of our wronged <hi>Sove<g ref="char:EOLhyphen"/>raign,</hi> dayly expected with an Army againſt us, which way, whi<g ref="char:EOLhyphen"/>ther ſhall we runne, will the People bee no longer <hi>cheated</hi> with ſhewes, nor deluded with <hi>Chimeras,</hi> money we have ſtore, but what doth that availe us, muſt we make thoſe our <hi>heires,</hi> whoſe wealth was their own, ere we extorted it, doth both <hi>heaven &amp; earth</hi> conſpire our ruine, but muſt we fall ſo ſpeedily, the <hi>Tame Ani<g ref="char:EOLhyphen"/>mals</hi> of the <hi>City</hi> reſolve to ſupport us to the laſt, <hi>O lack Hall, Jack Hall,</hi> ſtraine this invention to the higheſt pitch, let <hi>blaſphe<g ref="char:EOLhyphen"/>my</hi> and <hi>Treaſon</hi> both commix, thou ſhalt not want, either thy ſelfe or <hi>pander,</hi> write any thing good <hi>Jack,</hi> now thou haſt entred <hi>Covenant</hi> with us, thou muſt reſolve with us to fall or riſe, if the <hi>Royall-party</hi> prevaile.</p>
+            <lg>
+               <l>Ah tum te miſerum, malique Fati</l>
+               <l>Quem atractis pedi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, prarente porta</l>
+               <l>Percurrunt maligeleſque, raphanique.</l>
+               <pb n="5" facs="tcp:38250:5"/>
+               <!-- PDF PAGE 65 -->
+               <l>
+                  <hi>Ah thee thee wretched of accurſed Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+               </l>
+               <l>
+                  <hi>Whom Fiſh wives, Red fiſh wives of baſe eſtate.</hi>
+               </l>
+               <l>
+                  <hi>Shall ſcoffe and trample on the open gate.</hi>
+               </l>
+            </lg>
+            <p>O <hi>Lillie, Lille,</hi> thou that canſt command the ſtars to move, according to the compoſure o thy fingers, thou that canſt cloath the dead <hi>Saints</hi> with fleſh and mak'ſt the <hi>Furits</hi> of <hi>Barathrum</hi> to tremble at thy ſummons, thou that imploy'd the winged <hi>Spirits</hi> of the <hi>Ayre,</hi> to performe thy frequent <hi>Em<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> thou that haſt ſhoulder'd up our greatneſſe hitherto, and perſwaded the people into a good opinion of us, for the allowance to 1 <hi>per annum,</hi> and a ſhare of all eminent <hi>Thanksgiving Dinners,</hi> why didſt not thou forſee, this great unlookt for unlucky change, thou prognoſtica<g ref="char:EOLhyphen"/>tedſt <hi>peace</hi> and <hi>tranquility,</hi> a happy event to crown all our under<g ref="char:EOLhyphen"/>takings, and that wee ſhould prove the moſt <hi>glorious villaines,</hi> that ever were, now we find <hi>Wharton,</hi> is a true <hi>Prophet,</hi> and that his predictions, are ratified above, his 28 of <hi>Iune</hi> is come, and <hi>deſtruction</hi> dogs us like our <hi>Deſtinie,</hi> ô <hi>Booker, Booker,</hi> did not thy great head harbour one conceit for the ſecurity, could thy <hi>Chri<g ref="char:EOLhyphen"/>ſolite</hi> which thou <hi>ſtoleſt,</hi> ſhew thee nothing, when thou compileſt thy laſt <hi>bumbaſted Almanack,</hi> our <hi>Prophets</hi> are planet ſtruck, and our <hi>Deviners</hi> mad; ô <hi>Weaver,</hi> what a <hi>web</hi> have we now upon the <hi>Loome,</hi> ô <hi>Wild,</hi> how wildly have we rambled to our ruine, ô <hi>Corbet</hi> what will become of thy <hi>ſmokey viſinemir,</hi> which the <hi>Cava<g ref="char:EOLhyphen"/>liers</hi> have threatned to ſowſe and caribnado, and then ſend it as an <hi>hoggsface</hi> to Pluto, for him to feaſt the <hi>Fiends</hi> withall, ô <hi>Scot,</hi> what will now bee thy <hi>Lot;</hi> ô <hi>Warner,</hi> wee ſorrow for thee ex<g ref="char:EOLhyphen"/>treamly, for the Roguing <hi>Apprentices,</hi> will now have an oppor<g ref="char:EOLhyphen"/>tunity to performe their vowes, and to naile thy <hi>leather eares,</hi> to the door poſt of thine own houſe; ô <hi>Lenthall,</hi> our flippant ſpeaker. who haſt ſpake ſo well for us this ſeaven yeares, and ſo dexterouſ<g ref="char:EOLhyphen"/>ly, haſt pleaded thy own cauſe, that thou art now maſter of many <hi>millions</hi> of money, all which we hope (as forſeeing this ſtorme) thou haſt convei'd to ſome forraign land; ô <hi>Challenor,</hi> what will become of thee, and thy <hi>wall eyes,</hi> ô <hi>Rolles,</hi> how are we rowling down the hill on the ſuddaine, who ſome few moneths ſince, ſat tryumphing on the top of <hi>Fortunes wheele;</hi> ô <hi>Marten,</hi> thou were wiſe, and gotſt thy ſelfe with thy leaſh of <hi>curtezans</hi> into a place
+<pb n="6" facs="tcp:38250:6"/>
+               <!-- PDF PAGE 66 -->of ſtrength, where thou mayeſt remain with ſafety, till thy houſe be fired about thee, thy eares, and thy <hi>head</hi> ſent for a preſent to the <hi>King:</hi> whereas we are bare breaſted, and ſtand as marks for the intenſed people to ſhoot at ô <hi>Tom Fairfax</hi> what will become of thee, when thy gowty legs ſhall be chopt off, with thy head, and armes and the <hi>Cavaliers</hi> kick thee up and down <hi>Weſtminſter,</hi> as a <hi>football,</hi> ô <hi>Nol, Nol,</hi> what will become of thy <hi>Neſe,</hi> if thou beeſt yet mortall, which the <hi>Cavaliers</hi> will cut off, and fix it for a <hi>Reacon,</hi> on <hi>highgate-hill,</hi> oh, oh our <hi>Deſteny:</hi>
+               <q>
+                  <l>
+                     <hi>Melancholicus,</hi>
+                  </l>
+                  <l>— doth haunt you, and the iron hand of love,</l>
+                  <l>Will cruſh you into ayre, in vaine you ſtrove,</l>
+                  <l>To force the thunderers arm, back to his thie,</l>
+                  <l>By voting home King Charles, and ſo to trie,</l>
+                  <l>The peoples temper, if their madneſſe great,</l>
+                  <l>Would have accepted, of this ſecond cheat:</l>
+                  <l>Moſt holy Statel-men, bleſt Reformers, you</l>
+                  <l>To whom all poſſible applauſe is due,</l>
+                  <l>Why ſhould you fear, if ſacred Innocence,</l>
+                  <l>Doe guard you, fear not humane violence,</l>
+                  <l>But ſee then countenances, doe declare,</l>
+                  <l>That they of horrid Treaſon; guilty are,</l>
+                  <l>Guilty of blood, of cruelties and horrors,</l>
+                  <l>Drencht deep in Sin, chief authors of our terrors:</l>
+                  <l>What will you doe, or whether will you run,</l>
+                  <l>Your moſt inevitable Fate to ſhun,</l>
+                  <l>They are ama'zd, fall then, as in a trance,</l>
+                  <l>For on your bodies, Loyalty muſt Dance.</l>
+               </q>
+            </p>
+            <p>Since we muſt fall, let us with our weight ſinke the whole na<g ref="char:EOLhyphen"/>tion:
+<q>
+                  <l>It made <hi>Deucalion,</hi> willing for to die,</l>
+                  <l>When he had all the world, in company,</l>
+               </q>
+            </p>
+            <p>Let CHARLS be firſt be made away, by <hi>poyſon,</hi> or ſecretly <hi>ſtran<g ref="char:EOLhyphen"/>gled,</hi> that we may be reveng'd before we die, but ſee where the Ghoſts of <hi>Strafford, Laud, Tomkins, Challoner, Bourcher, Bur<g ref="char:EOLhyphen"/>leigh,</hi> and an infinite number of other Innocents whom we cru<g ref="char:EOLhyphen"/>elly murdred, ſtand waiting to drag us into <hi>Phlegeton.</hi>
+            </p>
+            <q>
+               <l>Wee come, wee come, having receiv'd our hire,</l>
+               <l>On earth, to plunge in hell, in liquid fire.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38250:6"/>
+            <!-- PDF PAGE 66 -->
+         </div>
+      </body>
+   </text>
+</TEI>
